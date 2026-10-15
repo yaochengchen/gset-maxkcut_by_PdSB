@@ -1,0 +1,29 @@
+{
+  "title": "Max-k-Cut solution certificates on the G-set benchmark",
+  "upload_type": "dataset",
+  "doi": "10.5281/zenodo.23405852",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/yaochengchen/gset-maxkcut_by_PdSB",
+      "relation": "isIdenticalTo",
+      "scheme": "url",
+      "resource_type": "dataset"
+    }
+  ],
+  "description": "A release of 35 explicit Max-k-Cut vertex partitions on 10 G-set graphs, with a short results paper and two dependency-free verification programs. Relative to the published comparison values identified as of October 15, 2026, the data include seven improvements (G81 k=3: 16510; G22 k=4: 18787; G55 k=3: 12437; G1-G4 k=5: 17706, 17710, 17705, 17710), 17 matches including three provably optimal all-edges-cut partitions, and ten reference values for k=6 and k=8 on G1-G5 without an identified directly comparable published baseline. One additional G81 k=4 partition has value 16666, below the published Gurobi value 16670, and is not claimed as an improvement. The release publishes solutions and verification certificates; solution-generation algorithms are outside its scope.",
+  "creators": [
+    {
+      "name": "Chen, Yaocheng",
+      "affiliation": "Instituto de Astronomia, Geofísica e Ciências Atmosféricas (IAG-USP), Universidade de São Paulo"
+    }
+  ],
+  "keywords": [
+    "Max-k-Cut",
+    "G-set",
+    "graph partitioning",
+    "solution certificates",
+    "combinatorial optimization"
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open"
+}
