@@ -1,0 +1,7 @@
+gset_cache/
+__pycache__/
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.toc
+paper/*.synctex.gz
