@@ -1,0 +1,37 @@
+  G1  K=3  n=800    m=19176  cut=15165  previous best=15165  (0)  parts used=3  OK
+  G1  K=4  n=800    m=19176  cut=16804  previous best=16804  (0)  parts used=4  OK
+  G1  K=5  n=800    m=19176  cut=17706  previous best=17705  (+1)  parts used=5  OK
+  G1  K=6  n=800    m=19176  cut=18255  parts used=6  OK
+  G1  K=8  n=800    m=19176  cut=18843  parts used=8  OK
+  G2  K=3  n=800    m=19176  cut=15172  previous best=15172  (0)  parts used=3  OK
+  G2  K=4  n=800    m=19176  cut=16810  previous best=16810  (0)  parts used=4  OK
+  G2  K=5  n=800    m=19176  cut=17710  previous best=17707  (+3)  parts used=5  OK
+  G2  K=6  n=800    m=19176  cut=18257  parts used=6  OK
+  G2  K=8  n=800    m=19176  cut=18844  parts used=8  OK
+  G3  K=3  n=800    m=19176  cut=15173  previous best=15173  (0)  parts used=3  OK
+  G3  K=4  n=800    m=19176  cut=16806  previous best=16806  (0)  parts used=4  OK
+  G3  K=5  n=800    m=19176  cut=17705  previous best=17703  (+2)  parts used=5  OK
+  G3  K=6  n=800    m=19176  cut=18254  parts used=6  OK
+  G3  K=8  n=800    m=19176  cut=18843  parts used=8  OK
+  G4  K=3  n=800    m=19176  cut=15184  previous best=15184  (0)  parts used=3  OK
+  G4  K=4  n=800    m=19176  cut=16814  previous best=16814  (0)  parts used=4  OK
+  G4  K=5  n=800    m=19176  cut=17710  previous best=17709  (+1)  parts used=5  OK
+  G4  K=6  n=800    m=19176  cut=18257  parts used=6  OK
+  G4  K=8  n=800    m=19176  cut=18844  parts used=8  OK
+  G5  K=3  n=800    m=19176  cut=15193  previous best=15193  (0)  parts used=3  OK
+  G5  K=4  n=800    m=19176  cut=16816  previous best=16816  (0)  parts used=4  OK
+  G5  K=5  n=800    m=19176  cut=17711  previous best=17711  (0)  parts used=5  OK
+  G5  K=6  n=800    m=19176  cut=18258  parts used=6  OK
+  G5  K=8  n=800    m=19176  cut=18845  parts used=8  OK
+ G22  K=3  n=2000   m=19990  cut=17169  previous best=17169  (0)  parts used=3  OK
+ G22  K=4  n=2000   m=19990  cut=18787  previous best=18776  (+11)  parts used=4  OK
+ G43  K=3  n=1000   m=9990   cut=8573  previous best=8573  (0)  parts used=3  OK
+ G43  K=4  n=1000   m=9990   cut=9377  previous best=9377  (0)  parts used=4  OK
+ G55  K=3  n=5000   m=12498  cut=12437  previous best=12432  (+5)  parts used=3  OK
+ G55  K=4  n=5000   m=12498  cut=12498  previous best=12498  (0)  parts used=4  OK
+ G70  K=3  n=10000  m=9999   cut=9999  previous best=9999  (0)  parts used=3  OK
+ G70  K=4  n=10000  m=9999   cut=9999  previous best=9999  (0)  parts used=4  OK
+ G81  K=3  n=20000  m=40000  cut=16510  previous best=16392  (+118)  parts used=3  OK
+ G81  K=4  n=20000  m=40000  cut=16666  previous best=16670  (-4)  parts used=4  OK
+
+ALL SOLUTIONS VERIFIED

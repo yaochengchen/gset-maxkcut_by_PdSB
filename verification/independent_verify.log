@@ -1,0 +1,38 @@
+ G1 k=3 cut=15165 max_move_gain=0 OK
+ G1 k=4 cut=16804 max_move_gain=0 OK
+ G1 k=5 cut=17706 max_move_gain=0 OK
+ G1 k=6 cut=18255 max_move_gain=0 OK
+ G1 k=8 cut=18843 max_move_gain=0 OK
+ G2 k=3 cut=15172 max_move_gain=0 OK
+ G2 k=4 cut=16810 max_move_gain=0 OK
+ G2 k=5 cut=17710 max_move_gain=0 OK
+ G2 k=6 cut=18257 max_move_gain=0 OK
+ G2 k=8 cut=18844 max_move_gain=0 OK
+ G3 k=3 cut=15173 max_move_gain=0 OK
+ G3 k=4 cut=16806 max_move_gain=0 OK
+ G3 k=5 cut=17705 max_move_gain=0 OK
+ G3 k=6 cut=18254 max_move_gain=0 OK
+ G3 k=8 cut=18843 max_move_gain=0 OK
+ G4 k=3 cut=15184 max_move_gain=0 OK
+ G4 k=4 cut=16814 max_move_gain=0 OK
+ G4 k=5 cut=17710 max_move_gain=0 OK
+ G4 k=6 cut=18257 max_move_gain=0 OK
+ G4 k=8 cut=18844 max_move_gain=0 OK
+ G5 k=3 cut=15193 max_move_gain=0 OK
+ G5 k=4 cut=16816 max_move_gain=0 OK
+ G5 k=5 cut=17711 max_move_gain=0 OK
+ G5 k=6 cut=18258 max_move_gain=0 OK
+ G5 k=8 cut=18845 max_move_gain=0 OK
+G22 k=3 cut=17169 max_move_gain=0 OK
+G22 k=4 cut=18787 max_move_gain=0 OK
+G43 k=3 cut=8573 max_move_gain=0 OK
+G43 k=4 cut=9377 max_move_gain=0 OK
+G55 k=3 cut=12437 max_move_gain=0 OK
+G55 k=4 cut=12498 max_move_gain=0 OK
+G70 k=3 cut=9999 max_move_gain=0 OK
+G70 k=4 cut=9999 max_move_gain=0 OK
+G81 k=3 cut=16510 max_move_gain=0 OK
+G81 k=4 cut=16666 max_move_gain=0 OK
+
+35/35 certificates passed; 0 failures.
+Published comparison values are supplied metadata; this program does not search the literature.

@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Please cite this dataset when using its solution certificates."
+title: "Max-k-Cut solution certificates on the G-set benchmark"
+type: dataset
+authors:
+  - family-names: Chen
+    given-names: Yaocheng
+    email: yaochengchen@usp.br
+    affiliation: "Instituto de Astronomia, Geofísica e Ciências Atmosféricas (IAG-USP), Universidade de São Paulo"
+    address: "Rua do Matão 1226, São Paulo, SP 05508-090, Brazil"
+version: "2.0.0"
+doi: "10.5281/zenodo.23405852"
+url: "https://doi.org/10.5281/zenodo.23405852"
+repository-code: "https://github.com/yaochengchen/gset-maxkcut_by_PdSB"
+license: CC-BY-4.0
+keywords:
+  - Max-k-Cut
+  - G-set
+  - graph partitioning
+  - solution certificates
+  - combinatorial optimization
